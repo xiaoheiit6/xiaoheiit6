@@ -6,7 +6,7 @@ I am from Shandong, China.
 
 Here is my details below:
 
-- 🌱 I’m currently learning **Java** and **C++**.
+- 🌱 I’m currently learning **Java** and **Kotlin**.
 - 📫 How to reach me: 
   - Email: [xiaoheiit@foxmail.com](mailto:xiaoheiit@foxmail.com)
   - Telegram: [@xiaohei318](https://t.me/xiaohei318)
