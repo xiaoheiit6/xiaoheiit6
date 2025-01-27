@@ -12,6 +12,19 @@ Here is my details below:
   - Telegram: [@xiaohei318](https://t.me/xiaohei318)
 
 
-![readme](https://github-readme-stats.vercel.app/api?username=xiaoheiit6&show_icons=true)
+<table>
+<tbody>
+<tr>
+<td>
 
-![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoheiit6&layout=compact&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoheiit6&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)
+
+</td>
+<td>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoheiit6&layout=compact&theme=buefy&hide_border=true)
+
+</td>
+</tr>
+</tbody>
+</table>
